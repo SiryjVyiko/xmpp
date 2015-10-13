@@ -6,7 +6,7 @@ Ubiety is an extensible XMPP library written in C# to be easy and powerful.
 
 * First, thanks to Dieter Lunn for his great ubiety xmpp library
 * This fork is designed to work with Windows 8 and .netCore
-* It is used, as is, in the "Chat" application in the Windows 8 Store
+* It is used, as is, ваіаівавіin the "Chat" application in the Windows 8 Store
 * The library is based on an event driven concept and multi-instancable
 * The keepalive functionality is not tested at the time of writing
 * Windows 8 rejects connections with invalid or unknown self signed SSL certificates
